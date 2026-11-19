@@ -1,0 +1,6 @@
+bin/
+obj/
+dist/
+*.log
+setup-log-*.txt
+laptop-setup/vendor/*.exe
